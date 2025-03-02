@@ -47,6 +47,10 @@ porem dava outro efeito indesejado, pesquisei na internet e como se trata de uma
 quando em modo MOBILE, na qual nunca tinha usado esse CSS, foi então que finalizei o projeto,
 pois com isso em modo Desktop o "accordion" não estava aparecendo mais.
 
+### Sobre o Projeto
+
+Organizei todas as pasta e comentei em alguns lugares para compreender melhor, Praticamente todas as importações estão comentadas dizendo qual o tipo dela.
+
 ### Projeto feito com
 
 React.js, TypeScript e CSS Puro
