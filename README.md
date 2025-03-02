@@ -3,12 +3,12 @@
 Projeto feito com React 19 e CSS.
 ![Animação](https://github.com/user-attachments/assets/3fccb410-ac0d-40ab-85d8-1a6f3ff7b368)
 
-# Projeito Publicado FRONT-END E BACK-END, segue o link para acesso abaixo.
+# Projeito Publicado FullStack link abaixo.
 
 [Projeto Betalent Amostra online Publicada](https://betalent-frontend-backend.vercel.app/) 
 <br/>
 Publiquei o `Teste Técnico Front-end BeTalent` na internet para ficar mais fácil visualizar de qualquer lugar do mundo apenas tendo um aparelho celular sem o uso de um computador.
-Apos construir todo o `Projeto` e publicar ele fiz uma outra versão porem com `FRONT-END E BACK-END` ou seja `FULLSTACK`.
+Apos construir todo o `Projeto` e publicar ele fiz uma outra versão porem com `FRONT-END E BACK-END` ou seja `FULLSTACK`, tenho boas praticas, porem meu ponto forte é Front-end.
 
 ## Iniciando o Projeto
 
