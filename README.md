@@ -23,8 +23,11 @@ Projeto feito com React 19 e CSS.
 2. Na aba do navegador o ícone usado é o mesmo da `BeTalent`
 
 3. No README do github da `BeTalent` estava dizendo `Datas e telefones devem ser formatadas no front-end e não na API.`,
-   "NÃO" falava nada se alterar as imagens dos funcionários pela API então alterei por lá mesmo, pegando a url que esta no figma.
-   como são poucas imagens, fiz isso, pois não ficara tão pesado no carregamento da página.
+   "NÃO" falava nada se alterar as imagens dos funcionários pela API então alterei por lá mesmo.
+
+4. Esses fotos como estavem em uma qualidade muito grande renderizei ela e postei em um site e peguei a `URL` de cada
+   foto e coloquei na `API` fornecida, como sua dimensão agora são `100 x 150` seu carregamento é ultra rapido,
+   fazendo a página carregar com as fotos dos usuários em instantaneamente.
 
 ### Meus desafios nesse projeto
 
@@ -37,4 +40,5 @@ quando em modo MOBILE, na qual nunca tinha usado esse CSS, foi então que finali
 pois com isso em modo Desktop o "accordion" não estava aparecendo mais.
 
 ### Meu Portfólio
+
 [DigitalHDR](https://digitalhdr.com.br/)
