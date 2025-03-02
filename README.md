@@ -1,6 +1,7 @@
 # Teste Técnico Front-end BeTalent
 
 Projeto feito com React 19 e CSS.
+![Animação](https://github.com/user-attachments/assets/3fccb410-ac0d-40ab-85d8-1a6f3ff7b368)
 
 ## Iniciando o Projeto
 
