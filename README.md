@@ -26,8 +26,8 @@ Projeto feito com React 19 e CSS.
 3. No README do github da `BeTalent` estava dizendo `Datas e telefones devem ser formatadas no front-end e não na API.`,
    "NÃO" falava nada se alterar as imagens dos funcionários pela API então alterei por lá mesmo.
 
-4. Esses fotos como estavem em uma qualidade muito grande renderizei ela e postei em um site e peguei a `URL` de cada
-   foto e coloquei na `API` fornecida, como sua dimensão agora são `100 x 150` seu carregamento é ultra rapido,
+4. Essas fotos como estavam em uma qualidade muito grande renderizei ela e postei em um site e peguei a `URL` de cada
+   foto e coloquei na `API` fornecida, como sua dimensão agora são `100 x 150` seu carregamento é ultra rápido,
    fazendo a página carregar com as fotos dos usuários em instantaneamente.
 
 ### Meus desafios nesse projeto
