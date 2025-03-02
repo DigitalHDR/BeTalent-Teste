@@ -12,7 +12,7 @@ Projeto feito com React 19 e CSS.
 
 3.  Clonar esse repositório.
   
-5.  Entre na pasta `teste-pratico-frontend\my-app` do projeto clonado no GitHub
+5.  Entre na pasta `BeTalent-Teste-master` do projeto clonado no GitHub
     abra o terminal e execute: `npm install`. logo em seguida `npm start`
     Ira ser executado o "json-server" e o projeto "Teste Técnico BeTalent" ao mesmo tempo.
     "json-server" ira rodar na PORTA 3000 e "Teste Técnico BeTalent" na PORTA 3001.
