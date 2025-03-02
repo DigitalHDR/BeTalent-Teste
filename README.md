@@ -11,9 +11,9 @@ Projeto feito com React 19 e CSS.
     no PowerShell ou Prompt de Comando digite: `npm install -g json-server`
 
 3.  Clonar esse repositório.
-
-4.  Entre na pasta `teste-pratico-frontend\my-app` do projeto clonado no GitHub
-    abra o terminal e execute: `npm start`
+  
+5.  Entre na pasta `teste-pratico-frontend\my-app` do projeto clonado no GitHub
+    abra o terminal e execute: `npm install`. logo em seguida `npm start`
     Ira ser executado o "json-server" e o projeto "Teste Técnico BeTalent" ao mesmo tempo.
     "json-server" ira rodar na PORTA 3000 e "Teste Técnico BeTalent" na PORTA 3001.
 
