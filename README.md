@@ -6,6 +6,7 @@ Projeto feito com React 19 e CSS.
 # Projeito Publicado FRONT-END E BACK-END
 
 [Projeto Betalent Amostra online Publicada](https://betalent-frontend-backend.vercel.app/) 
+<br/>
 Publiquei o `Teste Técnico Front-end BeTalent` na internet para ficar mais fácil visualizar de qualquer lugar do mundo apenas tendo um aparelho celular sem o uso de um computador.
 Apos construir todo o `Projeto` e publicar ele fiz uma outra versão porem com `FRONT-END E BACK-END` ou seja `FULLSTACK`.
 
