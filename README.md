@@ -3,7 +3,7 @@
 Projeto feito com React 19 e CSS.
 ![Animação](https://github.com/user-attachments/assets/3fccb410-ac0d-40ab-85d8-1a6f3ff7b368)
 
-# Projeito Publicado FRONT-END E BACK-END
+# Projeito Publicado FRONT-END E BACK-END, segue o link para acesso abaixo.
 
 [Projeto Betalent Amostra online Publicada](https://betalent-frontend-backend.vercel.app/) 
 <br/>
