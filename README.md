@@ -40,6 +40,8 @@ Apos construir todo o `Projeto` e publicar ele fiz uma outra versão porem com `
 5. Coloquei uma animação de loading(carregando) na lista de funcionários caso a API demora para carregar no navegador.
    baixei da internet no formato SVG para ser mais otimizado.
 
+![Animação2](https://github.com/user-attachments/assets/7167c234-4282-41ac-bfea-379144d169e0)
+
 ### Meus desafios nesse projeto
 
 É a segunda vez que uso tabelas em um projeto, porem essa é a primeira vez que tenho que editá-la tão profundamente.
