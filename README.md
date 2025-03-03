@@ -56,6 +56,10 @@ pois com isso em modo Desktop o "accordion" não estava aparecendo mais.
 
 Organizei todas as pasta e comentei em alguns lugares para compreender melhor, Praticamente todas as importações estão comentadas dizendo qual o tipo dela.
 
+### Observações
+
+Não a erros no projeto, nem mesmo no console.log() do navegador. projeto limpo e sem erros.
+
 ### Projeto feito com
 
 React.js, TypeScript e CSS Puro
