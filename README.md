@@ -37,6 +37,9 @@ Apos construir todo o `Projeto` e publicar ele fiz uma outra versão porem com `
    foto e coloquei na `API` fornecida, como sua dimensão agora são `100 x 150` seu carregamento é ultra rápido,
    fazendo a página carregar com as fotos dos usuários em instantaneamente.
 
+5. Coloquei uma animação de loading(carregando) na lista de funcionários caso a API demora para carregar no navegador.
+   baixei da internet no formato SVG para ser mais otimizado.
+
 ### Meus desafios nesse projeto
 
 É a segunda vez que uso tabelas em um projeto, porem essa é a primeira vez que tenho que editá-la tão profundamente.
